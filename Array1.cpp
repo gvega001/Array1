@@ -8,16 +8,16 @@ using namespace stdext;
 
 int main()
 {
-	int a[5];
+	int a[] ={1,2,3,4,5};
 	double b[5];
 	char c[5];
 	string basicString = "Hello World!";
 
-	a[0] = 1;
-	a[1] = 2;
-	a[2] = 3;
-	a[3] = 4;
-	a[4] = 5;
+	//a[0] = 1;
+	//a[1] = 2;
+	//a[2] = 3;
+	//a[3] = 4;
+	//a[4] = 5;
 
 	b[0] = 1.1;
 	b[1] = 2.2;
